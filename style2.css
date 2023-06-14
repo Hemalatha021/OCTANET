@@ -1,0 +1,45 @@
+body{
+    background-color: #99b3cc;
+}
+
+.title{
+    color: #803763;
+    text-align:center;
+    margin-top: 5%;
+}
+
+#ab{
+padding-top: 20%;
+}
+
+.ba{
+    padding:2%;
+}
+
+.bb{
+    padding: 2%;
+    font-size: larger;
+    text-decoration: none;
+   
+}
+
+#row{
+    /* background-color: #997f99; */
+   background-color:#6d94a3;
+    padding:2.5%;
+}
+
+a:link {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:visited {
+    color: #800000;
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:active {
+    color: yellow;
+    background-color: transparent;
+ }

@@ -1,0 +1,37 @@
+body{
+    background-color: #997f99;
+}
+
+#role_row{
+    background-color: #a36d79;
+}
+
+#aa{
+    padding:1%;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#role_row a:link {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+ }
+ #role_row a:visited {
+    color:black;
+    background-color: transparent;
+    text-decoration: none;
+ }
+ #role_row a:active {
+    color: yellow;
+    background-color: transparent;
+ }
+
+ #cards{
+    padding:2%;
+ }
+
+ #cards a{
+    font-size: larger;
+    font-weight: bolder;
+ }
